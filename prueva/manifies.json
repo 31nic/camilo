@@ -1,0 +1,17 @@
+{
+"name": "Primera app",
+"short_name": "Mi Primera APP",
+"theme_color":"#ffe008a",
+"background_color": "#ffe08a",
+"display":"standalone",
+"orientacion": "portrait",
+"scope": "./",
+"start_url": "./",
+"icons": [
+    {
+    "src": "./imagen/icono.jpg",
+    "type": "imagen/jpg",
+    
+    } 
+]
+}
